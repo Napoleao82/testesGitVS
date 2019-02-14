@@ -10,6 +10,7 @@ namespace TestesGit
             Console.WriteLine("Ola Eliton");
             Console.WriteLine("Commit 1");
             Console.WriteLine("Commit 2");
+            Console.WriteLine("Commit 1 da Branch 1");
 
         }
     }
